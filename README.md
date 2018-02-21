@@ -238,4 +238,9 @@ cmake -G "Visual Studio 12 Win64" ..
 ```
 
 And then do Build.
-Good luck!
+
+
+
+googled links:
+-https://dns.he.net/
+-https://aws.amazon.com/free/
